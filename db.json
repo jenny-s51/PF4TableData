@@ -290,16 +290,6 @@
         "url": "http://www.redhat.com/en/office-locations/CZ-remote-node9"
     },
     {
-        "servers": "CZ-Remote-Node 10",
-        "threads": 13,
-        "applications": 26,
-        "workspaces": 11,
-        "status": "Stopped",
-        "location": "Prague",
-        "lastModified": "3 hours ago",
-        "url": "http://www.redhat.com/en/office-locations/CZ-remote-node10"
-    },
-    {
         "servers": "Bangalore-Node 1",
         "threads": 16,
         "applications": 4,
@@ -348,15 +338,5 @@
         "location": "Bangalore",
         "lastModified": "3 hours ago",
         "url": "http://www.redhat.com/en/office-locations/Bangalore-node5"
-    },
-    {
-        "servers": "Bangalore-Node 6",
-        "threads": 11,
-        "applications": 46,
-        "workspaces": 17,
-        "status": "Needs Maintainence",
-        "location": "Bangalore",
-        "lastModified": "2 hours ago",
-        "url": "http://www.redhat.com/en/office-locations/Bangalore-node6"
     },
 ]
