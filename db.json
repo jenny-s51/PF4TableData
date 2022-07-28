@@ -190,16 +190,6 @@
         "url": "http://www.redhat.com/en/office-locations/CZ-node9"
     },
     {
-        "servers": "CZ-Node 10",
-        "threads": 13,
-        "applications": 33,
-        "workspaces": 5,
-        "status": "Needs Maintainence",
-        "location": "Prague",
-        "lastModified": "3 hours ago",
-        "url": "http://www.redhat.com/en/office-locations/CZ-node10"
-    },
-    {
         "servers": "CZ-Remote-Node 1",
         "threads": 15,
         "applications": 1,
