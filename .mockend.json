@@ -1,4 +1,4 @@
-{
+[
     {
         "servers": "US-Node 1",
         "threads": 5,
@@ -749,4 +749,4 @@
         "lastModified": "3 hours ago",
         "url": "http://www.redhat.com/en/office-locations/Bangalore-node16"
     }
-}
+]
