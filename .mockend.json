@@ -1,1952 +1,3152 @@
 {
-		"1Data": {
-			"servers": {
-				"string": ["US-Node 1"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [5]
-			},
-			"workspaces": {
-				"int": [4]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node1"]
-			}
-		},
-		"2Data": {
-			"servers": {
-				"string": ["US-Node 2"]
-			},
-			"threads": {
-				"int": [4]
-			},
-			"applications": {
-				"int": [7]
-			},
-			"workspaces": {
-				"int": [26]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["5 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node2"]
-			}
-		},
-		"3Data": {
-			"servers": {
-				"string": ["US-Node 3"]
-			},
-			"threads": {
-				"int": [10]
-			},
-			"applications": {
-				"int": [26]
-			},
-			"workspaces": {
-				"int": [6]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["San Francisco"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node3"]
-			}
-		},
-		"4Data": {
-			"servers": {
-				"string": ["US-Node 4"]
-			},
-			"threads": {
-				"int": [14]
-			},
-			"applications": {
-				"int": [26]
-			},
-			"workspaces": {
-				"int": [22]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node4"]
-			}
-		},
-		"5Data": {
-			"servers": {
-				"string": ["US-Node 5"]
-			},
-			"threads": {
-				"int": [13]
-			},
-			"applications": {
-				"int": [11]
-			},
-			"workspaces": {
-				"int": [22]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["15 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node5"]
-			}
-		},
-		"6Data": {
-			"servers": {
-				"string": ["US-Node 6"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [34]
-			},
-			"workspaces": {
-				"int": [14]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["4 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node6"]
-			}
-		},
-		"7Data": {
-			"servers": {
-				"string": ["US-Node 7"]
-			},
-			"threads": {
-				"int": [4]
-			},
-			"applications": {
-				"int": [39]
-			},
-			"workspaces": {
-				"int": [8]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node7"]
-			}
-		},
-		"8Data": {
-			"servers": {
-				"string": ["US-Node 8"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [27]
-			},
-			"workspaces": {
-				"int": [11]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["8 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node8"]
-			}
-		},
-		"9Data": {
-			"servers": {
-				"string": ["US-Node 9"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [5]
-			},
-			"workspaces": {
-				"int": [20]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node9"]
-			}
-		},
-		"10Data": {
-			"servers": {
-				"string": ["US-Node 10"]
-			},
-			"threads": {
-				"int": [14]
-			},
-			"applications": {
-				"int": [33]
-			},
-			"workspaces": {
-				"int": [10]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node10"]
-			}
-		},
-		"11Data": {
-			"servers": {
-				"string": ["US-Node 11"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [25]
-			},
-			"workspaces": {
-				"int": [11]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["55 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node11"]
-			}
-		},
-		"12Data": {
-			"servers": {
-				"string": ["US-Node 12"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [19]
-			},
-			"workspaces": {
-				"int": [21]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node12"]
-			}
-		},
-		"13Data": {
-			"servers": {
-				"string": ["US-Node 13"]
-			},
-			"threads": {
-				"int": [11]
-			},
-			"applications": {
-				"int": [20]
-			},
-			"workspaces": {
-				"int": [5]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node13"]
-			}
-		},
-		"14Data": {
-			"servers": {
-				"string": ["US-Node 14"]
-			},
-			"threads": {
-				"int": [3]
-			},
-			"applications": {
-				"int": [25]
-			},
-			"workspaces": {
-				"int": [17]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["4 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node14"]
-			}
-		},
-		"15Data": {
-			"servers": {
-				"string": ["US-Node 15"]
-			},
-			"threads": {
-				"int": [2]
-			},
-			"applications": {
-				"int": [22]
-			},
-			"workspaces": {
-				"int": [24]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node15"]
-			}
-		},
-		"16Data": {
-			"servers": {
-				"string": ["US-Node 16"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [42]
-			},
-			"workspaces": {
-				"int": [1]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["5 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node16"]
-			}
-		},
-		"17Data": {
-			"servers": {
-				"string": ["US-Node 17"]
-			},
-			"threads": {
-				"int": [15]
-			},
-			"applications": {
-				"int": [13]
-			},
-			"workspaces": {
-				"int": [30]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["5 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node17"]
-			}
-		},
-		"18Data": {
-			"servers": {
-				"string": ["US-Node 18"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [36]
-			},
-			"workspaces": {
-				"int": [20]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node18"]
-			}
-		},
-		"19Data": {
-			"servers": {
-				"string": ["US-Node 19"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [43]
-			},
-			"workspaces": {
-				"int": [17]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["30 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node19"]
-			}
-		},
-		"20Data": {
-			"servers": {
-				"string": ["US-Node 20"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [35]
-			},
-			"workspaces": {
-				"int": [20]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node20"]
-			}
-		},
-		"21Data": {
-			"servers": {
-				"string": ["US-Node 21"]
-			},
-			"threads": {
-				"int": [3]
-			},
-			"applications": {
-				"int": [10]
-			},
-			"workspaces": {
-				"int": [13]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Boston"]
-			},
-			"lastModified": {
-				"string": ["15 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node21"]
-			}
-		},
-		"22Data": {
-			"servers": {
-				"string": ["US-Node 22"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [50]
-			},
-			"workspaces": {
-				"int": [14]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node22"]
-			}
-		},
-		"23Data": {
-			"servers": {
-				"string": ["US-Node 23"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [14]
-			},
-			"workspaces": {
-				"int": [2]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Raleigh"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node23"]
-			}
-		},
-		"24Data": {
-			"servers": {
-				"string": ["US-Node 24"]
-			},
-			"threads": {
-				"int": [1]
-			},
-			"applications": {
-				"int": [31]
-			},
-			"workspaces": {
-				"int": [21]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["40 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node24"]
-			}
-		},
-		"25Data": {
-			"servers": {
-				"string": ["US-Node 25"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [31]
-			},
-			"workspaces": {
-				"int": [28]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node25"]
-			}
-		},
-		"26Data": {
-			"servers": {
-				"string": ["US-Node 26"]
-			},
-			"threads": {
-				"int": [4]
-			},
-			"applications": {
-				"int": [17]
-			},
-			"workspaces": {
-				"int": [28]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Atlanta"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/US-node26"]
-			}
-		},
-		"27Data": {
-			"servers": {
-				"string": ["CZ-Node 1"]
-			},
-			"threads": {
-				"int": [16]
-			},
-			"applications": {
-				"int": [6]
-			},
-			"workspaces": {
-				"int": [15]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["7 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node1"]
-			}
-		},
-		"28Data": {
-			"servers": {
-				"string": ["CZ-Node 2"]
-			},
-			"threads": {
-				"int": [17]
-			},
-			"applications": {
-				"int": [32]
-			},
-			"workspaces": {
-				"int": [28]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["50 minues ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node2"]
-			}
-		},
-		"29Data": {
-			"servers": {
-				"string": ["CZ-Node 3"]
-			},
-			"threads": {
-				"int": [3]
-			},
-			"applications": {
-				"int": [18]
-			},
-			"workspaces": {
-				"int": [3]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node3"]
-			}
-		},
-		"30Data": {
-			"servers": {
-				"string": ["CZ-Node 4"]
-			},
-			"threads": {
-				"int": [19]
-			},
-			"applications": {
-				"int": [4]
-			},
-			"workspaces": {
-				"int": [29]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node4"]
-			}
-		},
-		"31Data": {
-			"servers": {
-				"string": ["CZ-Node 5"]
-			},
-			"threads": {
-				"int": [16]
-			},
-			"applications": {
-				"int": [28]
-			},
-			"workspaces": {
-				"int": [14]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node5"]
-			}
-		},
-		"32Data": {
-			"servers": {
-				"string": ["CZ-Node 6"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [38]
-			},
-			"workspaces": {
-				"int": [9]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node6"]
-			}
-		},
-		"33Data": {
-			"servers": {
-				"string": ["CZ-Node 7"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [47]
-			},
-			"workspaces": {
-				"int": [1]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["25 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node7"]
-			}
-		},
-		"34Data": {
-			"servers": {
-				"string": ["CZ-Node 8"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [9]
-			},
-			"workspaces": {
-				"int": [22]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node8"]
-			}
-		},
-		"35Data": {
-			"servers": {
-				"string": ["CZ-Node 9"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [40]
-			},
-			"workspaces": {
-				"int": [2]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["15 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node9"]
-			}
-		},
-		"36Data": {
-			"servers": {
-				"string": ["CZ-Node 10"]
-			},
-			"threads": {
-				"int": [4]
-			},
-			"applications": {
-				"int": [17]
-			},
-			"workspaces": {
-				"int": [12]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node10"]
-			}
-		},
-		"37Data": {
-			"servers": {
-				"string": ["CZ-Node 11"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [42]
-			},
-			"workspaces": {
-				"int": [15]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["30 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node11"]
-			}
-		},
-		"38Data": {
-			"servers": {
-				"string": ["CZ-Node 12"]
-			},
-			"threads": {
-				"int": [18]
-			},
-			"applications": {
-				"int": [44]
-			},
-			"workspaces": {
-				"int": [5]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["5 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node12"]
-			}
-		},
-		"39Data": {
-			"servers": {
-				"string": ["CZ-Node 13"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [31]
-			},
-			"workspaces": {
-				"int": [14]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["45 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node13"]
-			}
-		},
-		"40Data": {
-			"servers": {
-				"string": ["CZ-Node 14"]
-			},
-			"threads": {
-				"int": [17]
-			},
-			"applications": {
-				"int": [46]
-			},
-			"workspaces": {
-				"int": [28]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node14"]
-			}
-		},
-		"41Data": {
-			"servers": {
-				"string": ["CZ-Node 15"]
-			},
-			"threads": {
-				"int": [19]
-			},
-			"applications": {
-				"int": [4]
-			},
-			"workspaces": {
-				"int": [27]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-node15"]
-			}
-		},
-		"42Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 1"]
-			},
-			"threads": {
-				"int": [12]
-			},
-			"applications": {
-				"int": [8]
-			},
-			"workspaces": {
-				"int": [7]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node1"]
-			}
-		},
-		"43Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 2"]
-			},
-			"threads": {
-				"int": [19]
-			},
-			"applications": {
-				"int": [42]
-			},
-			"workspaces": {
-				"int": [27]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["15 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node2"]
-			}
-		},
-		"44Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 3"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [48]
-			},
-			"workspaces": {
-				"int": [26]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node3"]
-			}
-		},
-		"45Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 4"]
-			},
-			"threads": {
-				"int": [17]
-			},
-			"applications": {
-				"int": [37]
-			},
-			"workspaces": {
-				"int": [18]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node4"]
-			}
-		},
-		"46Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 5"]
-			},
-			"threads": {
-				"int": [4]
-			},
-			"applications": {
-				"int": [14]
-			},
-			"workspaces": {
-				"int": [17]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["30 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node5"]
-			}
-		},
-		"47Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 6"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [14]
-			},
-			"workspaces": {
-				"int": [8]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node6"]
-			}
-		},
-		"48Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 7"]
-			},
-			"threads": {
-				"int": [9]
-			},
-			"applications": {
-				"int": [18]
-			},
-			"workspaces": {
-				"int": [7]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["45 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node7"]
-			}
-		},
-		"49Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 8"]
-			},
-			"threads": {
-				"int": [13]
-			},
-			"applications": {
-				"int": [50]
-			},
-			"workspaces": {
-				"int": [11]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["6 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node8"]
-			}
-		},
-		"50Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 9"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [13]
-			},
-			"workspaces": {
-				"int": [16]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["50 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node9"]
-			}
-		},
-		"51Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 10"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [5]
-			},
-			"workspaces": {
-				"int": [23]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node10"]
-			}
-		},
-		"52Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 11"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [35]
-			},
-			"workspaces": {
-				"int": [18]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node11"]
-			}
-		},
-		"53Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 12"]
-			},
-			"threads": {
-				"int": [11]
-			},
-			"applications": {
-				"int": [43]
-			},
-			"workspaces": {
-				"int": [2]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node12"]
-			}
-		},
-		"54Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 13"]
-			},
-			"threads": {
-				"int": [10]
-			},
-			"applications": {
-				"int": [49]
-			},
-			"workspaces": {
-				"int": [24]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["5 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node13"]
-			}
-		},
-		"55Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 14"]
-			},
-			"threads": {
-				"int": [15]
-			},
-			"applications": {
-				"int": [18]
-			},
-			"workspaces": {
-				"int": [9]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["30 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node14"]
-			}
-		},
-		"56Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 15"]
-			},
-			"threads": {
-				"int": [18]
-			},
-			"applications": {
-				"int": [16]
-			},
-			"workspaces": {
-				"int": [30]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node15"]
-			}
-		},
-		"57Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 16"]
-			},
-			"threads": {
-				"int": [3]
-			},
-			"applications": {
-				"int": [48]
-			},
-			"workspaces": {
-				"int": [27]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node16"]
-			}
-		},
-		"58Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 17"]
-			},
-			"threads": {
-				"int": [6]
-			},
-			"applications": {
-				"int": [42]
-			},
-			"workspaces": {
-				"int": [21]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Prague"]
-			},
-			"lastModified": {
-				"string": ["25 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node17"]
-			}
-		},
-		"59Data": {
-			"servers": {
-				"string": ["CZ-Remote-Node 18"]
-			},
-			"threads": {
-				"int": [16]
-			},
-			"applications": {
-				"int": [45]
-			},
-			"workspaces": {
-				"int": [20]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Brno"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node18"]
-			}
-		},
-		"60Data": {
-			"servers": {
-				"string": ["Bangalore-Node 1"]
-			},
-			"threads": {
-				"int": [18]
-			},
-			"applications": {
-				"int": [9]
-			},
-			"workspaces": {
-				"int": [4]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["25 miutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node1"]
-			}
-		},
-		"61Data": {
-			"servers": {
-				"string": ["Bangalore-Node 2"]
-			},
-			"threads": {
-				"int": [8]
-			},
-			"applications": {
-				"int": [30]
-			},
-			"workspaces": {
-				"int": [23]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node2"]
-			}
-		},
-		"62Data": {
-			"servers": {
-				"string": ["Bangalore-Node 3"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [37]
-			},
-			"workspaces": {
-				"int": [28]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["10 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node3"]
-			}
-		},
-		"63Data": {
-			"servers": {
-				"string": ["Bangalore-Node 4"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [21]
-			},
-			"workspaces": {
-				"int": [5]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["50 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node4"]
-			}
-		},
-		"64Data": {
-			"servers": {
-				"string": ["Bangalore-Node 5"]
-			},
-			"threads": {
-				"int": [2]
-			},
-			"applications": {
-				"int": [34]
-			},
-			"workspaces": {
-				"int": [9]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node5"]
-			}
-		},
-		"65Data": {
-			"servers": {
-				"string": ["Bangalore-Node 6"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [4]
-			},
-			"workspaces": {
-				"int": [27]
-			},
-			"status": {
-				"string": ["Running"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node6"]
-			}
-		},
-		"66Data": {
-			"servers": {
-				"string": ["Bangalore-Node 7"]
-			},
-			"threads": {
-				"int": [19]
-			},
-			"applications": {
-				"int": [17]
-			},
-			"workspaces": {
-				"int": [8]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["5 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node7"]
-			}
-		},
-		"67Data": {
-			"servers": {
-				"string": ["Bangalore-Node 8"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [46]
-			},
-			"workspaces": {
-				"int": [3]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["30 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node8"]
-			}
-		},
-		"68Data": {
-			"servers": {
-				"string": ["Bangalore-Node 9"]
-			},
-			"threads": {
-				"int": [14]
-			},
-			"applications": {
-				"int": [20]
-			},
-			"workspaces": {
-				"int": [3]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node9"]
-			}
-		},
-		"69Data": {
-			"servers": {
-				"string": ["Bangalore-Node 10"]
-			},
-			"threads": {
-				"int": [13]
-			},
-			"applications": {
-				"int": [8]
-			},
-			"workspaces": {
-				"int": [26]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node10"]
-			}
-		},
-		"70Data": {
-			"servers": {
-				"string": ["Bangalore-Node 11"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [3]
-			},
-			"workspaces": {
-				"int": [7]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["40 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node11"]
-			}
-		},
-		"71Data": {
-			"servers": {
-				"string": ["Bangalore-Node 12"]
-			},
-			"threads": {
-				"int": [20]
-			},
-			"applications": {
-				"int": [47]
-			},
-			"workspaces": {
-				"int": [22]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["1 hour ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node12"]
-			}
-		},
-		"72Data": {
-			"servers": {
-				"string": ["Bangalore-Node 13"]
-			},
-			"threads": {
-				"int": [17]
-			},
-			"applications": {
-				"int": [27]
-			},
-			"workspaces": {
-				"int": [10]
-			},
-			"status": {
-				"string": ["Down"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["20 minutes ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node13"]
-			}
-		},
-		"73Data": {
-			"servers": {
-				"string": ["Bangalore-Node 14"]
-			},
-			"threads": {
-				"int": [7]
-			},
-			"applications": {
-				"int": [3]
-			},
-			"workspaces": {
-				"int": [25]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["4 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node14"]
-			}
-		},
-		"74Data": {
-			"servers": {
-				"string": ["Bangalore-Node 15"]
-			},
-			"threads": {
-				"int": [13]
-			},
-			"applications": {
-				"int": [40]
-			},
-			"workspaces": {
-				"int": [23]
-			},
-			"status": {
-				"string": ["Needs Maintainence"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["2 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node15"]
-			}
-		},
-		"75Data": {
-			"servers": {
-				"string": ["Bangalore-Node 16"]
-			},
-			"threads": {
-				"int": [5]
-			},
-			"applications": {
-				"int": [48]
-			},
-			"workspaces": {
-				"int": [25]
-			},
-			"status": {
-				"string": ["Stopped"]
-			},
-			"location": {
-				"string": ["Bangalore"]
-			},
-			"lastModified": {
-				"string": ["3 hours ago"]
-			},
-			"url": {
-				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node16"]
-			}
-		}
+  "Row1data": {
+    "servers": {
+      "string": [
+        "US-Node 1"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        5
+      ]
+    },
+    "workspaces": {
+      "int": [
+        4
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node1"
+      ]
+    }
+  },
+  "Row2data": {
+    "servers": {
+      "string": [
+        "US-Node 2"
+      ]
+    },
+    "threads": {
+      "int": [
+        4
+      ]
+    },
+    "applications": {
+      "int": [
+        7
+      ]
+    },
+    "workspaces": {
+      "int": [
+        26
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node2"
+      ]
+    }
+  },
+  "Row3data": {
+    "servers": {
+      "string": [
+        "US-Node 3"
+      ]
+    },
+    "threads": {
+      "int": [
+        10
+      ]
+    },
+    "applications": {
+      "int": [
+        26
+      ]
+    },
+    "workspaces": {
+      "int": [
+        6
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "San Francisco"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node3"
+      ]
+    }
+  },
+  "Row4data": {
+    "servers": {
+      "string": [
+        "US-Node 4"
+      ]
+    },
+    "threads": {
+      "int": [
+        14
+      ]
+    },
+    "applications": {
+      "int": [
+        26
+      ]
+    },
+    "workspaces": {
+      "int": [
+        22
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node4"
+      ]
+    }
+  },
+  "Row5data": {
+    "servers": {
+      "string": [
+        "US-Node 5"
+      ]
+    },
+    "threads": {
+      "int": [
+        13
+      ]
+    },
+    "applications": {
+      "int": [
+        11
+      ]
+    },
+    "workspaces": {
+      "int": [
+        22
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "15 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node5"
+      ]
+    }
+  },
+  "Row6data": {
+    "servers": {
+      "string": [
+        "US-Node 6"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        34
+      ]
+    },
+    "workspaces": {
+      "int": [
+        14
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "4 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node6"
+      ]
+    }
+  },
+  "Row7data": {
+    "servers": {
+      "string": [
+        "US-Node 7"
+      ]
+    },
+    "threads": {
+      "int": [
+        4
+      ]
+    },
+    "applications": {
+      "int": [
+        39
+      ]
+    },
+    "workspaces": {
+      "int": [
+        8
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node7"
+      ]
+    }
+  },
+  "Row8data": {
+    "servers": {
+      "string": [
+        "US-Node 8"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        27
+      ]
+    },
+    "workspaces": {
+      "int": [
+        11
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "8 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node8"
+      ]
+    }
+  },
+  "Row9data": {
+    "servers": {
+      "string": [
+        "US-Node 9"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        5
+      ]
+    },
+    "workspaces": {
+      "int": [
+        20
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node9"
+      ]
+    }
+  },
+  "Row10data": {
+    "servers": {
+      "string": [
+        "US-Node 10"
+      ]
+    },
+    "threads": {
+      "int": [
+        14
+      ]
+    },
+    "applications": {
+      "int": [
+        33
+      ]
+    },
+    "workspaces": {
+      "int": [
+        10
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node10"
+      ]
+    }
+  },
+  "Row11data": {
+    "servers": {
+      "string": [
+        "US-Node 11"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        25
+      ]
+    },
+    "workspaces": {
+      "int": [
+        11
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "55 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node11"
+      ]
+    }
+  },
+  "Row12data": {
+    "servers": {
+      "string": [
+        "US-Node 12"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        19
+      ]
+    },
+    "workspaces": {
+      "int": [
+        21
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node12"
+      ]
+    }
+  },
+  "Row13data": {
+    "servers": {
+      "string": [
+        "US-Node 13"
+      ]
+    },
+    "threads": {
+      "int": [
+        11
+      ]
+    },
+    "applications": {
+      "int": [
+        20
+      ]
+    },
+    "workspaces": {
+      "int": [
+        5
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node13"
+      ]
+    }
+  },
+  "Row14data": {
+    "servers": {
+      "string": [
+        "US-Node 14"
+      ]
+    },
+    "threads": {
+      "int": [
+        3
+      ]
+    },
+    "applications": {
+      "int": [
+        25
+      ]
+    },
+    "workspaces": {
+      "int": [
+        17
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "4 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node14"
+      ]
+    }
+  },
+  "Row15data": {
+    "servers": {
+      "string": [
+        "US-Node 15"
+      ]
+    },
+    "threads": {
+      "int": [
+        2
+      ]
+    },
+    "applications": {
+      "int": [
+        22
+      ]
+    },
+    "workspaces": {
+      "int": [
+        24
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node15"
+      ]
+    }
+  },
+  "Row16data": {
+    "servers": {
+      "string": [
+        "US-Node 16"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        42
+      ]
+    },
+    "workspaces": {
+      "int": [
+        1
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node16"
+      ]
+    }
+  },
+  "Row17data": {
+    "servers": {
+      "string": [
+        "US-Node 17"
+      ]
+    },
+    "threads": {
+      "int": [
+        15
+      ]
+    },
+    "applications": {
+      "int": [
+        13
+      ]
+    },
+    "workspaces": {
+      "int": [
+        30
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node17"
+      ]
+    }
+  },
+  "Row18data": {
+    "servers": {
+      "string": [
+        "US-Node 18"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        36
+      ]
+    },
+    "workspaces": {
+      "int": [
+        20
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node18"
+      ]
+    }
+  },
+  "Row19data": {
+    "servers": {
+      "string": [
+        "US-Node 19"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        43
+      ]
+    },
+    "workspaces": {
+      "int": [
+        17
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "30 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node19"
+      ]
+    }
+  },
+  "Row20data": {
+    "servers": {
+      "string": [
+        "US-Node 20"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        35
+      ]
+    },
+    "workspaces": {
+      "int": [
+        20
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node20"
+      ]
+    }
+  },
+  "Row21data": {
+    "servers": {
+      "string": [
+        "US-Node 21"
+      ]
+    },
+    "threads": {
+      "int": [
+        3
+      ]
+    },
+    "applications": {
+      "int": [
+        10
+      ]
+    },
+    "workspaces": {
+      "int": [
+        13
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Boston"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "15 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node21"
+      ]
+    }
+  },
+  "Row22data": {
+    "servers": {
+      "string": [
+        "US-Node 22"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        50
+      ]
+    },
+    "workspaces": {
+      "int": [
+        14
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node22"
+      ]
+    }
+  },
+  "Row23data": {
+    "servers": {
+      "string": [
+        "US-Node 23"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        14
+      ]
+    },
+    "workspaces": {
+      "int": [
+        2
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Raleigh"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node23"
+      ]
+    }
+  },
+  "Row24data": {
+    "servers": {
+      "string": [
+        "US-Node 24"
+      ]
+    },
+    "threads": {
+      "int": [
+        1
+      ]
+    },
+    "applications": {
+      "int": [
+        31
+      ]
+    },
+    "workspaces": {
+      "int": [
+        21
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "40 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node24"
+      ]
+    }
+  },
+  "Row25data": {
+    "servers": {
+      "string": [
+        "US-Node 25"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        31
+      ]
+    },
+    "workspaces": {
+      "int": [
+        28
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node25"
+      ]
+    }
+  },
+  "Row26data": {
+    "servers": {
+      "string": [
+        "US-Node 26"
+      ]
+    },
+    "threads": {
+      "int": [
+        4
+      ]
+    },
+    "applications": {
+      "int": [
+        17
+      ]
+    },
+    "workspaces": {
+      "int": [
+        28
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Atlanta"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/US-node26"
+      ]
+    }
+  },
+  "Row27data": {
+    "servers": {
+      "string": [
+        "CZ-Node 1"
+      ]
+    },
+    "threads": {
+      "int": [
+        16
+      ]
+    },
+    "applications": {
+      "int": [
+        6
+      ]
+    },
+    "workspaces": {
+      "int": [
+        15
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "7 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node1"
+      ]
+    }
+  },
+  "Row28data": {
+    "servers": {
+      "string": [
+        "CZ-Node 2"
+      ]
+    },
+    "threads": {
+      "int": [
+        17
+      ]
+    },
+    "applications": {
+      "int": [
+        32
+      ]
+    },
+    "workspaces": {
+      "int": [
+        28
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "50 minues ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node2"
+      ]
+    }
+  },
+  "Row29data": {
+    "servers": {
+      "string": [
+        "CZ-Node 3"
+      ]
+    },
+    "threads": {
+      "int": [
+        3
+      ]
+    },
+    "applications": {
+      "int": [
+        18
+      ]
+    },
+    "workspaces": {
+      "int": [
+        3
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node3"
+      ]
+    }
+  },
+  "Row30data": {
+    "servers": {
+      "string": [
+        "CZ-Node 4"
+      ]
+    },
+    "threads": {
+      "int": [
+        19
+      ]
+    },
+    "applications": {
+      "int": [
+        4
+      ]
+    },
+    "workspaces": {
+      "int": [
+        29
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node4"
+      ]
+    }
+  },
+  "Row31data": {
+    "servers": {
+      "string": [
+        "CZ-Node 5"
+      ]
+    },
+    "threads": {
+      "int": [
+        16
+      ]
+    },
+    "applications": {
+      "int": [
+        28
+      ]
+    },
+    "workspaces": {
+      "int": [
+        14
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node5"
+      ]
+    }
+  },
+  "Row32data": {
+    "servers": {
+      "string": [
+        "CZ-Node 6"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        38
+      ]
+    },
+    "workspaces": {
+      "int": [
+        9
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node6"
+      ]
+    }
+  },
+  "Row33data": {
+    "servers": {
+      "string": [
+        "CZ-Node 7"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        47
+      ]
+    },
+    "workspaces": {
+      "int": [
+        1
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "25 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node7"
+      ]
+    }
+  },
+  "Row34data": {
+    "servers": {
+      "string": [
+        "CZ-Node 8"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        9
+      ]
+    },
+    "workspaces": {
+      "int": [
+        22
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node8"
+      ]
+    }
+  },
+  "Row35data": {
+    "servers": {
+      "string": [
+        "CZ-Node 9"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        40
+      ]
+    },
+    "workspaces": {
+      "int": [
+        2
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "15 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node9"
+      ]
+    }
+  },
+  "Row36data": {
+    "servers": {
+      "string": [
+        "CZ-Node 10"
+      ]
+    },
+    "threads": {
+      "int": [
+        4
+      ]
+    },
+    "applications": {
+      "int": [
+        17
+      ]
+    },
+    "workspaces": {
+      "int": [
+        12
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node10"
+      ]
+    }
+  },
+  "Row37data": {
+    "servers": {
+      "string": [
+        "CZ-Node 11"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        42
+      ]
+    },
+    "workspaces": {
+      "int": [
+        15
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "30 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node11"
+      ]
+    }
+  },
+  "Row38data": {
+    "servers": {
+      "string": [
+        "CZ-Node 12"
+      ]
+    },
+    "threads": {
+      "int": [
+        18
+      ]
+    },
+    "applications": {
+      "int": [
+        44
+      ]
+    },
+    "workspaces": {
+      "int": [
+        5
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node12"
+      ]
+    }
+  },
+  "Row39data": {
+    "servers": {
+      "string": [
+        "CZ-Node 13"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        31
+      ]
+    },
+    "workspaces": {
+      "int": [
+        14
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "45 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node13"
+      ]
+    }
+  },
+  "Row40data": {
+    "servers": {
+      "string": [
+        "CZ-Node 14"
+      ]
+    },
+    "threads": {
+      "int": [
+        17
+      ]
+    },
+    "applications": {
+      "int": [
+        46
+      ]
+    },
+    "workspaces": {
+      "int": [
+        28
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node14"
+      ]
+    }
+  },
+  "Row41data": {
+    "servers": {
+      "string": [
+        "CZ-Node 15"
+      ]
+    },
+    "threads": {
+      "int": [
+        19
+      ]
+    },
+    "applications": {
+      "int": [
+        4
+      ]
+    },
+    "workspaces": {
+      "int": [
+        27
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-node15"
+      ]
+    }
+  },
+  "Row42data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 1"
+      ]
+    },
+    "threads": {
+      "int": [
+        12
+      ]
+    },
+    "applications": {
+      "int": [
+        8
+      ]
+    },
+    "workspaces": {
+      "int": [
+        7
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node1"
+      ]
+    }
+  },
+  "Row43data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 2"
+      ]
+    },
+    "threads": {
+      "int": [
+        19
+      ]
+    },
+    "applications": {
+      "int": [
+        42
+      ]
+    },
+    "workspaces": {
+      "int": [
+        27
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "15 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node2"
+      ]
+    }
+  },
+  "Row44data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 3"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        48
+      ]
+    },
+    "workspaces": {
+      "int": [
+        26
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node3"
+      ]
+    }
+  },
+  "Row45data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 4"
+      ]
+    },
+    "threads": {
+      "int": [
+        17
+      ]
+    },
+    "applications": {
+      "int": [
+        37
+      ]
+    },
+    "workspaces": {
+      "int": [
+        18
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node4"
+      ]
+    }
+  },
+  "Row46data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 5"
+      ]
+    },
+    "threads": {
+      "int": [
+        4
+      ]
+    },
+    "applications": {
+      "int": [
+        14
+      ]
+    },
+    "workspaces": {
+      "int": [
+        17
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "30 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node5"
+      ]
+    }
+  },
+  "Row47data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 6"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        14
+      ]
+    },
+    "workspaces": {
+      "int": [
+        8
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node6"
+      ]
+    }
+  },
+  "Row48data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 7"
+      ]
+    },
+    "threads": {
+      "int": [
+        9
+      ]
+    },
+    "applications": {
+      "int": [
+        18
+      ]
+    },
+    "workspaces": {
+      "int": [
+        7
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "45 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node7"
+      ]
+    }
+  },
+  "Row49data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 8"
+      ]
+    },
+    "threads": {
+      "int": [
+        13
+      ]
+    },
+    "applications": {
+      "int": [
+        50
+      ]
+    },
+    "workspaces": {
+      "int": [
+        11
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "6 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node8"
+      ]
+    }
+  },
+  "Row50data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 9"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        13
+      ]
+    },
+    "workspaces": {
+      "int": [
+        16
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "50 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node9"
+      ]
+    }
+  },
+  "Row51data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 10"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        5
+      ]
+    },
+    "workspaces": {
+      "int": [
+        23
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node10"
+      ]
+    }
+  },
+  "Row52data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 11"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        35
+      ]
+    },
+    "workspaces": {
+      "int": [
+        18
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node11"
+      ]
+    }
+  },
+  "Row53data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 12"
+      ]
+    },
+    "threads": {
+      "int": [
+        11
+      ]
+    },
+    "applications": {
+      "int": [
+        43
+      ]
+    },
+    "workspaces": {
+      "int": [
+        2
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node12"
+      ]
+    }
+  },
+  "Row54data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 13"
+      ]
+    },
+    "threads": {
+      "int": [
+        10
+      ]
+    },
+    "applications": {
+      "int": [
+        49
+      ]
+    },
+    "workspaces": {
+      "int": [
+        24
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node13"
+      ]
+    }
+  },
+  "Row55data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 14"
+      ]
+    },
+    "threads": {
+      "int": [
+        15
+      ]
+    },
+    "applications": {
+      "int": [
+        18
+      ]
+    },
+    "workspaces": {
+      "int": [
+        9
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "30 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node14"
+      ]
+    }
+  },
+  "Row56data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 15"
+      ]
+    },
+    "threads": {
+      "int": [
+        18
+      ]
+    },
+    "applications": {
+      "int": [
+        16
+      ]
+    },
+    "workspaces": {
+      "int": [
+        30
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node15"
+      ]
+    }
+  },
+  "Row57data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 16"
+      ]
+    },
+    "threads": {
+      "int": [
+        3
+      ]
+    },
+    "applications": {
+      "int": [
+        48
+      ]
+    },
+    "workspaces": {
+      "int": [
+        27
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node16"
+      ]
+    }
+  },
+  "Row58data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 17"
+      ]
+    },
+    "threads": {
+      "int": [
+        6
+      ]
+    },
+    "applications": {
+      "int": [
+        42
+      ]
+    },
+    "workspaces": {
+      "int": [
+        21
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Prague"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "25 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node17"
+      ]
+    }
+  },
+  "Row59data": {
+    "servers": {
+      "string": [
+        "CZ-Remote-Node 18"
+      ]
+    },
+    "threads": {
+      "int": [
+        16
+      ]
+    },
+    "applications": {
+      "int": [
+        45
+      ]
+    },
+    "workspaces": {
+      "int": [
+        20
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Brno"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/CZ-remote-node18"
+      ]
+    }
+  },
+  "Row60data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 1"
+      ]
+    },
+    "threads": {
+      "int": [
+        18
+      ]
+    },
+    "applications": {
+      "int": [
+        9
+      ]
+    },
+    "workspaces": {
+      "int": [
+        4
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "25 miutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node1"
+      ]
+    }
+  },
+  "Row61data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 2"
+      ]
+    },
+    "threads": {
+      "int": [
+        8
+      ]
+    },
+    "applications": {
+      "int": [
+        30
+      ]
+    },
+    "workspaces": {
+      "int": [
+        23
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node2"
+      ]
+    }
+  },
+  "Row62data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 3"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        37
+      ]
+    },
+    "workspaces": {
+      "int": [
+        28
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "10 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node3"
+      ]
+    }
+  },
+  "Row63data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 4"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        21
+      ]
+    },
+    "workspaces": {
+      "int": [
+        5
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "50 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node4"
+      ]
+    }
+  },
+  "Row64data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 5"
+      ]
+    },
+    "threads": {
+      "int": [
+        2
+      ]
+    },
+    "applications": {
+      "int": [
+        34
+      ]
+    },
+    "workspaces": {
+      "int": [
+        9
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node5"
+      ]
+    }
+  },
+  "Row65data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 6"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        4
+      ]
+    },
+    "workspaces": {
+      "int": [
+        27
+      ]
+    },
+    "status": {
+      "string": [
+        "Running"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node6"
+      ]
+    }
+  },
+  "Row66data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 7"
+      ]
+    },
+    "threads": {
+      "int": [
+        19
+      ]
+    },
+    "applications": {
+      "int": [
+        17
+      ]
+    },
+    "workspaces": {
+      "int": [
+        8
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "5 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node7"
+      ]
+    }
+  },
+  "Row67data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 8"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        46
+      ]
+    },
+    "workspaces": {
+      "int": [
+        3
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "30 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node8"
+      ]
+    }
+  },
+  "Row68data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 9"
+      ]
+    },
+    "threads": {
+      "int": [
+        14
+      ]
+    },
+    "applications": {
+      "int": [
+        20
+      ]
+    },
+    "workspaces": {
+      "int": [
+        3
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node9"
+      ]
+    }
+  },
+  "Row69data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 10"
+      ]
+    },
+    "threads": {
+      "int": [
+        13
+      ]
+    },
+    "applications": {
+      "int": [
+        8
+      ]
+    },
+    "workspaces": {
+      "int": [
+        26
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node10"
+      ]
+    }
+  },
+  "Row70data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 11"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        3
+      ]
+    },
+    "workspaces": {
+      "int": [
+        7
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "40 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node11"
+      ]
+    }
+  },
+  "Row71data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 12"
+      ]
+    },
+    "threads": {
+      "int": [
+        20
+      ]
+    },
+    "applications": {
+      "int": [
+        47
+      ]
+    },
+    "workspaces": {
+      "int": [
+        22
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "1 hour ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node12"
+      ]
+    }
+  },
+  "Row72data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 13"
+      ]
+    },
+    "threads": {
+      "int": [
+        17
+      ]
+    },
+    "applications": {
+      "int": [
+        27
+      ]
+    },
+    "workspaces": {
+      "int": [
+        10
+      ]
+    },
+    "status": {
+      "string": [
+        "Down"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "20 minutes ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node13"
+      ]
+    }
+  },
+  "Row73data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 14"
+      ]
+    },
+    "threads": {
+      "int": [
+        7
+      ]
+    },
+    "applications": {
+      "int": [
+        3
+      ]
+    },
+    "workspaces": {
+      "int": [
+        25
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "4 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node14"
+      ]
+    }
+  },
+  "Row74data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 15"
+      ]
+    },
+    "threads": {
+      "int": [
+        13
+      ]
+    },
+    "applications": {
+      "int": [
+        40
+      ]
+    },
+    "workspaces": {
+      "int": [
+        23
+      ]
+    },
+    "status": {
+      "string": [
+        "Needs Maintainence"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "2 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node15"
+      ]
+    }
+  },
+  "Row75data": {
+    "servers": {
+      "string": [
+        "Bangalore-Node 16"
+      ]
+    },
+    "threads": {
+      "int": [
+        5
+      ]
+    },
+    "applications": {
+      "int": [
+        48
+      ]
+    },
+    "workspaces": {
+      "int": [
+        25
+      ]
+    },
+    "status": {
+      "string": [
+        "Stopped"
+      ]
+    },
+    "location": {
+      "string": [
+        "Bangalore"
+      ]
+    },
+    "lastModified": {
+      "string": [
+        "3 hours ago"
+      ]
+    },
+    "url": {
+      "string": [
+        "http://www.redhat.com/en/office-locations/Bangalore-node16"
+      ]
+    }
+  }
 }
