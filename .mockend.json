@@ -1,6 +1,5 @@
 {
-	"Data": {
-		"row1Data": {
+		"1Data": {
 			"servers": {
 				"string": ["US-Node 1"]
 			},
@@ -26,7 +25,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node1"]
 			}
 		},
-		"row2Data": {
+		"2Data": {
 			"servers": {
 				"string": ["US-Node 2"]
 			},
@@ -52,7 +51,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node2"]
 			}
 		},
-		"row3Data": {
+		"3Data": {
 			"servers": {
 				"string": ["US-Node 3"]
 			},
@@ -78,7 +77,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node3"]
 			}
 		},
-		"row4Data": {
+		"4Data": {
 			"servers": {
 				"string": ["US-Node 4"]
 			},
@@ -104,7 +103,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node4"]
 			}
 		},
-		"row5Data": {
+		"5Data": {
 			"servers": {
 				"string": ["US-Node 5"]
 			},
@@ -130,7 +129,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node5"]
 			}
 		},
-		"row6Data": {
+		"6Data": {
 			"servers": {
 				"string": ["US-Node 6"]
 			},
@@ -156,7 +155,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node6"]
 			}
 		},
-		"row7Data": {
+		"7Data": {
 			"servers": {
 				"string": ["US-Node 7"]
 			},
@@ -182,7 +181,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node7"]
 			}
 		},
-		"row8Data": {
+		"8Data": {
 			"servers": {
 				"string": ["US-Node 8"]
 			},
@@ -208,7 +207,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node8"]
 			}
 		},
-		"row9Data": {
+		"9Data": {
 			"servers": {
 				"string": ["US-Node 9"]
 			},
@@ -234,7 +233,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node9"]
 			}
 		},
-		"row10Data": {
+		"10Data": {
 			"servers": {
 				"string": ["US-Node 10"]
 			},
@@ -260,7 +259,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node10"]
 			}
 		},
-		"row11Data": {
+		"11Data": {
 			"servers": {
 				"string": ["US-Node 11"]
 			},
@@ -286,7 +285,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node11"]
 			}
 		},
-		"row12Data": {
+		"12Data": {
 			"servers": {
 				"string": ["US-Node 12"]
 			},
@@ -312,7 +311,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node12"]
 			}
 		},
-		"row13Data": {
+		"13Data": {
 			"servers": {
 				"string": ["US-Node 13"]
 			},
@@ -338,7 +337,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node13"]
 			}
 		},
-		"row14Data": {
+		"14Data": {
 			"servers": {
 				"string": ["US-Node 14"]
 			},
@@ -364,7 +363,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node14"]
 			}
 		},
-		"row15Data": {
+		"15Data": {
 			"servers": {
 				"string": ["US-Node 15"]
 			},
@@ -390,7 +389,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node15"]
 			}
 		},
-		"row16Data": {
+		"16Data": {
 			"servers": {
 				"string": ["US-Node 16"]
 			},
@@ -416,7 +415,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node16"]
 			}
 		},
-		"row17Data": {
+		"17Data": {
 			"servers": {
 				"string": ["US-Node 17"]
 			},
@@ -442,7 +441,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node17"]
 			}
 		},
-		"row18Data": {
+		"18Data": {
 			"servers": {
 				"string": ["US-Node 18"]
 			},
@@ -468,7 +467,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node18"]
 			}
 		},
-		"row19Data": {
+		"19Data": {
 			"servers": {
 				"string": ["US-Node 19"]
 			},
@@ -494,7 +493,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node19"]
 			}
 		},
-		"row20Data": {
+		"20Data": {
 			"servers": {
 				"string": ["US-Node 20"]
 			},
@@ -520,7 +519,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node20"]
 			}
 		},
-		"row21Data": {
+		"21Data": {
 			"servers": {
 				"string": ["US-Node 21"]
 			},
@@ -546,7 +545,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node21"]
 			}
 		},
-		"row22Data": {
+		"22Data": {
 			"servers": {
 				"string": ["US-Node 22"]
 			},
@@ -572,7 +571,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node22"]
 			}
 		},
-		"row23Data": {
+		"23Data": {
 			"servers": {
 				"string": ["US-Node 23"]
 			},
@@ -598,7 +597,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node23"]
 			}
 		},
-		"row24Data": {
+		"24Data": {
 			"servers": {
 				"string": ["US-Node 24"]
 			},
@@ -624,7 +623,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node24"]
 			}
 		},
-		"row25Data": {
+		"25Data": {
 			"servers": {
 				"string": ["US-Node 25"]
 			},
@@ -650,7 +649,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node25"]
 			}
 		},
-		"row26Data": {
+		"26Data": {
 			"servers": {
 				"string": ["US-Node 26"]
 			},
@@ -676,7 +675,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/US-node26"]
 			}
 		},
-		"row27Data": {
+		"27Data": {
 			"servers": {
 				"string": ["CZ-Node 1"]
 			},
@@ -702,7 +701,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node1"]
 			}
 		},
-		"row28Data": {
+		"28Data": {
 			"servers": {
 				"string": ["CZ-Node 2"]
 			},
@@ -728,7 +727,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node2"]
 			}
 		},
-		"row29Data": {
+		"29Data": {
 			"servers": {
 				"string": ["CZ-Node 3"]
 			},
@@ -754,7 +753,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node3"]
 			}
 		},
-		"row30Data": {
+		"30Data": {
 			"servers": {
 				"string": ["CZ-Node 4"]
 			},
@@ -780,7 +779,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node4"]
 			}
 		},
-		"row31Data": {
+		"31Data": {
 			"servers": {
 				"string": ["CZ-Node 5"]
 			},
@@ -806,7 +805,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node5"]
 			}
 		},
-		"row32Data": {
+		"32Data": {
 			"servers": {
 				"string": ["CZ-Node 6"]
 			},
@@ -832,7 +831,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node6"]
 			}
 		},
-		"row33Data": {
+		"33Data": {
 			"servers": {
 				"string": ["CZ-Node 7"]
 			},
@@ -858,7 +857,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node7"]
 			}
 		},
-		"row34Data": {
+		"34Data": {
 			"servers": {
 				"string": ["CZ-Node 8"]
 			},
@@ -884,7 +883,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node8"]
 			}
 		},
-		"row35Data": {
+		"35Data": {
 			"servers": {
 				"string": ["CZ-Node 9"]
 			},
@@ -910,7 +909,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node9"]
 			}
 		},
-		"row36Data": {
+		"36Data": {
 			"servers": {
 				"string": ["CZ-Node 10"]
 			},
@@ -936,7 +935,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node10"]
 			}
 		},
-		"row37Data": {
+		"37Data": {
 			"servers": {
 				"string": ["CZ-Node 11"]
 			},
@@ -962,7 +961,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node11"]
 			}
 		},
-		"row38Data": {
+		"38Data": {
 			"servers": {
 				"string": ["CZ-Node 12"]
 			},
@@ -988,7 +987,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node12"]
 			}
 		},
-		"row39Data": {
+		"39Data": {
 			"servers": {
 				"string": ["CZ-Node 13"]
 			},
@@ -1014,7 +1013,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node13"]
 			}
 		},
-		"row40Data": {
+		"40Data": {
 			"servers": {
 				"string": ["CZ-Node 14"]
 			},
@@ -1040,7 +1039,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node14"]
 			}
 		},
-		"row41Data": {
+		"41Data": {
 			"servers": {
 				"string": ["CZ-Node 15"]
 			},
@@ -1066,7 +1065,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-node15"]
 			}
 		},
-		"row42Data": {
+		"42Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 1"]
 			},
@@ -1092,7 +1091,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node1"]
 			}
 		},
-		"row43Data": {
+		"43Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 2"]
 			},
@@ -1118,7 +1117,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node2"]
 			}
 		},
-		"row44Data": {
+		"44Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 3"]
 			},
@@ -1144,7 +1143,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node3"]
 			}
 		},
-		"row45Data": {
+		"45Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 4"]
 			},
@@ -1170,7 +1169,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node4"]
 			}
 		},
-		"row46Data": {
+		"46Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 5"]
 			},
@@ -1196,7 +1195,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node5"]
 			}
 		},
-		"row47Data": {
+		"47Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 6"]
 			},
@@ -1222,7 +1221,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node6"]
 			}
 		},
-		"row48Data": {
+		"48Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 7"]
 			},
@@ -1248,7 +1247,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node7"]
 			}
 		},
-		"row49Data": {
+		"49Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 8"]
 			},
@@ -1274,7 +1273,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node8"]
 			}
 		},
-		"row50Data": {
+		"50Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 9"]
 			},
@@ -1300,7 +1299,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node9"]
 			}
 		},
-		"row51Data": {
+		"51Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 10"]
 			},
@@ -1326,7 +1325,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node10"]
 			}
 		},
-		"row52Data": {
+		"52Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 11"]
 			},
@@ -1352,7 +1351,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node11"]
 			}
 		},
-		"row53Data": {
+		"53Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 12"]
 			},
@@ -1378,7 +1377,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node12"]
 			}
 		},
-		"row54Data": {
+		"54Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 13"]
 			},
@@ -1404,7 +1403,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node13"]
 			}
 		},
-		"row55Data": {
+		"55Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 14"]
 			},
@@ -1430,7 +1429,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node14"]
 			}
 		},
-		"row56Data": {
+		"56Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 15"]
 			},
@@ -1456,7 +1455,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node15"]
 			}
 		},
-		"row57Data": {
+		"57Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 16"]
 			},
@@ -1482,7 +1481,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node16"]
 			}
 		},
-		"row58Data": {
+		"58Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 17"]
 			},
@@ -1508,7 +1507,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node17"]
 			}
 		},
-		"row59Data": {
+		"59Data": {
 			"servers": {
 				"string": ["CZ-Remote-Node 18"]
 			},
@@ -1534,7 +1533,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/CZ-remote-node18"]
 			}
 		},
-		"row60Data": {
+		"60Data": {
 			"servers": {
 				"string": ["Bangalore-Node 1"]
 			},
@@ -1560,7 +1559,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node1"]
 			}
 		},
-		"row61Data": {
+		"61Data": {
 			"servers": {
 				"string": ["Bangalore-Node 2"]
 			},
@@ -1586,7 +1585,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node2"]
 			}
 		},
-		"row62Data": {
+		"62Data": {
 			"servers": {
 				"string": ["Bangalore-Node 3"]
 			},
@@ -1612,7 +1611,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node3"]
 			}
 		},
-		"row63Data": {
+		"63Data": {
 			"servers": {
 				"string": ["Bangalore-Node 4"]
 			},
@@ -1638,7 +1637,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node4"]
 			}
 		},
-		"row64Data": {
+		"64Data": {
 			"servers": {
 				"string": ["Bangalore-Node 5"]
 			},
@@ -1664,7 +1663,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node5"]
 			}
 		},
-		"row65Data": {
+		"65Data": {
 			"servers": {
 				"string": ["Bangalore-Node 6"]
 			},
@@ -1690,7 +1689,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node6"]
 			}
 		},
-		"row66Data": {
+		"66Data": {
 			"servers": {
 				"string": ["Bangalore-Node 7"]
 			},
@@ -1716,7 +1715,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node7"]
 			}
 		},
-		"row67Data": {
+		"67Data": {
 			"servers": {
 				"string": ["Bangalore-Node 8"]
 			},
@@ -1742,7 +1741,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node8"]
 			}
 		},
-		"row68Data": {
+		"68Data": {
 			"servers": {
 				"string": ["Bangalore-Node 9"]
 			},
@@ -1768,7 +1767,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node9"]
 			}
 		},
-		"row69Data": {
+		"69Data": {
 			"servers": {
 				"string": ["Bangalore-Node 10"]
 			},
@@ -1794,7 +1793,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node10"]
 			}
 		},
-		"row70Data": {
+		"70Data": {
 			"servers": {
 				"string": ["Bangalore-Node 11"]
 			},
@@ -1820,7 +1819,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node11"]
 			}
 		},
-		"row71Data": {
+		"71Data": {
 			"servers": {
 				"string": ["Bangalore-Node 12"]
 			},
@@ -1846,7 +1845,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node12"]
 			}
 		},
-		"row72Data": {
+		"72Data": {
 			"servers": {
 				"string": ["Bangalore-Node 13"]
 			},
@@ -1872,7 +1871,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node13"]
 			}
 		},
-		"row73Data": {
+		"73Data": {
 			"servers": {
 				"string": ["Bangalore-Node 14"]
 			},
@@ -1898,7 +1897,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node14"]
 			}
 		},
-		"row74Data": {
+		"74Data": {
 			"servers": {
 				"string": ["Bangalore-Node 15"]
 			},
@@ -1924,7 +1923,7 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node15"]
 			}
 		},
-		"row75Data": {
+		"75Data": {
 			"servers": {
 				"string": ["Bangalore-Node 16"]
 			},
@@ -1950,5 +1949,4 @@
 				"string": ["http://www.redhat.com/en/office-locations/Bangalore-node16"]
 			}
 		}
-	}
 }
