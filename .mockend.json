@@ -1,8 +1,28 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+		"servers": {
+			"string": ["US-Node 1"]
+		},
+		"threads": {
+			"int": [5]
+		},
+		"applications": {
+			"int": [5]
+		},
+		"workspaces": {
+			"int": [4]
+		},
+		"status": {
+			"string": ["Stopped"]
+		},
+		"location": {
+			"string": ["Boston"]
+		},
+		"lastModified": {
+			"string": ["2 hours ago"]
+		},
+		"url": {
+			"string": ["http://www.redhat.com/en/office-locations/US-node1"]
+		}
   }
 }
