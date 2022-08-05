@@ -1,5 +1,5 @@
 {
-	"TableData": {
+	"tableData": {
 		"row1Data": {
 			"servers": {
 				"string": ["US-Node 1"]
